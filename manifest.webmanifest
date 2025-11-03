@@ -1,8 +1,8 @@
 {
   "name": "KOBLLUX — Editor Mix",
   "short_name": "Editor Mix",
-  "description": "Editor/Preview de HTML com patches, upload/download e animações GSAP.",
-  "start_url": "kobllux_editor_mix.html",
+  "description": "Editor/Preview de HTML (index.html) com patches, upload/download e animações GSAP.",
+  "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0e18",
@@ -33,5 +33,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "scope": "./"
 }
